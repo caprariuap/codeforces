@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1480693053 source:c:\users\user\desktop\pbinfodailyproj\733d\main.cpp
+	<iostream>
+	<map>
+	<utility>
+
