@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1467658460 source:c:\users\user\desktop\pbinfodailyproj\611c\main.cpp
+	<iostream>
+	<fstream>
+
